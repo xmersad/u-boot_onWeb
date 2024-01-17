@@ -18,12 +18,6 @@ You can see more information in "http://ipaddress/data" path
 ![App Screenshot](https://i.ibb.co/19hVCQ2/Shot-0028.png)
 
 
-## Authors
-
-- [Mersad karimi](https://www.github.com/xmersad) 
-
-
-
 ## Support
 
 For support, email mersad234962b@gmail.com.
